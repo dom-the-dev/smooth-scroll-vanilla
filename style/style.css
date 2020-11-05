@@ -1,7 +1,9 @@
+* {margin:0;padding:0;}
 section {
-    height: 100vh;
+    height: calc(100vh - 10px);
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: aqua;
+    border: 5px solid white;
 }
